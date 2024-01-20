@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="6e807724-4e54-4bb4-8e2f-e7363b841ccd" name="Changes" comment="secondo commit">
       <change afterPath="$PROJECT_DIR$/main/Test.java" afterDir="false" />
+=======
+    <list default="true" id="6e807724-4e54-4bb4-8e2f-e7363b841ccd" name="Changes" comment="Primo commit">
+      <change afterPath="$PROJECT_DIR$/dwadaw.java" afterDir="false" />
+>>>>>>> origin/main
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +71,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+<<<<<<< HEAD
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="ScassoGitEloMettoAposto" />
@@ -81,6 +87,8 @@
       </method>
     </configuration>
   </component>
+=======
+>>>>>>> origin/main
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -97,8 +105,12 @@
       <option name="presentableId" value="Default" />
       <updated>1705694344668</updated>
       <workItem from="1705694345761" duration="916000" />
+<<<<<<< HEAD
       <workItem from="1705738482622" duration="551000" />
       <workItem from="1705739053116" duration="328000" />
+=======
+      <workItem from="1705738482622" duration="299000" />
+>>>>>>> origin/main
     </task>
     <task id="LOCAL-00001" summary="Primo commit">
       <option name="closed" value="true" />
@@ -108,6 +120,7 @@
       <option name="project" value="LOCAL" />
       <updated>1705694676818</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00002" summary="secondo commit">
       <option name="closed" value="true" />
       <created>1705738918866</created>
@@ -117,6 +130,9 @@
       <updated>1705738918866</updated>
     </task>
     <option name="localTasksCounter" value="3" />
+=======
+    <option name="localTasksCounter" value="2" />
+>>>>>>> origin/main
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,7 +152,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Primo commit" />
+<<<<<<< HEAD
     <MESSAGE value="secondo commit" />
     <option name="LAST_COMMIT_MESSAGE" value="secondo commit" />
+=======
+    <option name="LAST_COMMIT_MESSAGE" value="Primo commit" />
+>>>>>>> origin/main
   </component>
 </project>
