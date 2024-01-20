@@ -1,0 +1,2 @@
+public class dwadaw {
+}
